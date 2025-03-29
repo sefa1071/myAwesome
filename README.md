@@ -1,4 +1,4 @@
-# Awesome CETP Learining Resources
+# Awesome CETP 
 ![](https://static.wixstatic.com/media/98ad8e_09cc2d856494484c95461004eb38308e~mv2.png/v1/crop/x_3,y_0,w_1055,h_814/fill/w_610,h_471,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/CETP.png)
 ## Cource Lab
 ![lab](https://static.wixstatic.com/media/98ad8e_8a0932f82501450caa6e4ba95de262df~mv2.png/v1/fill/w_917,h_384,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/evasion%20lab%20diagram.png)
