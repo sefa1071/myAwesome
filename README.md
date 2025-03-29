@@ -6,7 +6,7 @@
 ## Useful Resources
 ### Resources and Tools
 - [Csharp unhooker](https://github.com/crypt0ace/CS-Unhook) 
-- [Sharp Unhooker](https://github.com/GetRektBoy724/SharpUnhooker](https://github.com/GetRektBoy724/SharpUnhooker)
+- [Sharp Unhooker](https://github.com/GetRektBoy724/SharpUnhooker]
 - https://github.com/0xNinjaCyclone/IATUnhooker
 - [https://github.com/abdallah-elsharif/UnhookImportAddrTable](https://github.com/abdallah-elsharif/UnhookImportAddrTable)
     https://github.com/mgeeky/UnhookMe/tree/master
